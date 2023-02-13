@@ -1,0 +1,1514 @@
+[
+  {
+    "AF": "middle east",
+    "Afghanistan": "middle east",
+    "status": "Web",
+    "access": "Free access",
+    "url": "http://acaa.gov.af/aip-aeronautical-information-publication/"
+  },
+  {
+    "AL": "europe",
+    "Albania": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://albcontrol.al/al/aip/"
+  },
+  {
+    "DZ": "africa",
+    "Algeria": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Purchase",
+    "url": "https://www.sia-enna.dz/"
+  },
+  {
+    "AS": "asia pacific",
+    "American Samoa": "asia pacific",
+    "status": "FAA eAIP",
+    "access": "Free access",
+    "url": "https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part3_ad_2.0_american_samoa.html"
+  },
+  {
+    "AO": "africa",
+    "Angola": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://enna.co.ao/informacao-aeronautica/"
+  },
+  {
+    "AI": "north central america",
+    "Anguilla": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "AG": "north central america",
+    "Antigua and Barbuda": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "AR": "south america",
+    "Argentina": "south america",
+    "status": "Web",
+    "access": "Free access",
+    "url": "http://ais.anac.gov.ar/aip"
+  },
+  {
+    "AM": "europe",
+    "Armenia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://armats.am/activities/ais/eaip"
+  },
+  {
+    "AW": "north central america",
+    "Aruba": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "AU": "asia pacific",
+    "Australia": "asia pacific",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.airservicesaustralia.com/aip/aip.asp"
+  },
+  {
+    "AT": "europe",
+    "Austria": "europe",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://eaip.austrocontrol.at/"
+  },
+  {
+    "AZ": "europe",
+    "Azerbaijan": "europe",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.azal.az/en/company/azeraeronavigation"
+  },
+  {
+    "BS": "north central america",
+    "Bahamas": "north central america",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://caabahamas.com/"
+  },
+  {
+    "BH": "middle east",
+    "Bahrain": "middle east",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.mtt.gov.bh/eaip"
+  },
+  {
+    "BD": "asia pacific",
+    "Bangladesh": "asia pacific",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://www.caab.gov.bd/aip/"
+  },
+  {
+    "BB": "north central america",
+    "Barbados": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "BY": "europe",
+    "Belarus": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Login",
+    "url": "http://www.ban.by/ru/sbornik-aip/amdt"
+  },
+  {
+    "BE": "europe",
+    "Belgium": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Product/index.html"
+  },
+  {
+    "BZ": "north central america",
+    "Belize": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.cocesna.org/aipca/history.html"
+  },
+  {
+    "BJ": "africa",
+    "Benin": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "BM": "north central america",
+    "Bermuda": "north central america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.airportauthority.bm/ais/aeronautical-info-publication.html"
+  },
+  {
+    "BT": "asia pacific",
+    "Bhutan": "asia pacific",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.doat.gov.bt/aip/"
+  },
+  {
+    "BO": "south america",
+    "Bolivia": "south america",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.dgac.gob.bo/"
+  },
+  {
+    "BQ": "north central america",
+    "Bonaire": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "BA": "europe",
+    "Bosnia and Herzegovina": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://eaip.bhansa.gov.ba/"
+  },
+  {
+    "BW": "africa",
+    "Botswana": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.caab.co.bw/"
+  },
+  {
+    "BR": "south america",
+    "Brazil": "south america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aisweb.decea.mil.br/?i=publicacoes&p=aip"
+  },
+  {
+    "BN": "asia pacific",
+    "Brunei": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.mtic.gov.bn/kadartambangteksi/Site%20Pages/AIS/AIS.aspx"
+  },
+  {
+    "BG": "europe",
+    "Bulgaria": "europe",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.bulatsa.com/en/aip-redirect/"
+  },
+  {
+    "BF": "africa",
+    "Burkina Faso": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "BI": "africa",
+    "Burundi": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "KH": "asia pacific",
+    "Cambodia": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://www.civilaviation.gov.kh/en/2014-04-07-07-52-5/aip-cambodia"
+  },
+  {
+    "CM": "africa",
+    "Cameroon": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "CA": "north central america",
+    "Canada": "north central america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://tc.canada.ca/en/aviation/publications/transport-canada-aeronautical-information-manual-tc-aim-tp-14371"
+  },
+  {
+    "CV": "africa",
+    "Cape Verde": "africa",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://ais.asa.cv/"
+  },
+  {
+    "KY": "north central america",
+    "Cayman Islands": "north central america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.caymanairports.com/aeronautical-information-publication"
+  },
+  {
+    "CF": "africa",
+    "Central African Republic": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "TD": "africa",
+    "Chad": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "CL": "south america",
+    "Chile": "south america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aipchile.dgac.gob.cl/"
+  },
+  {
+    "CN": "asia pacific",
+    "China": "asia pacific",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.aischina.com/EN/indexEn.aspx"
+  },
+  {
+    "CO": "south america",
+    "Colombia": "south america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.aerocivil.gov.co/servicios-a-la-navegacion/servicio-de-informacion-aeronautica-ais/aip"
+  },
+  {
+    "KM": "africa",
+    "Comoros": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "CG": "africa",
+    "Congo": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "CK": "asia pacific",
+    "Cook Islands": "asia pacific",
+    "status": "PDF",
+    "access": "Login",
+    "url": "https://shop.aeropath.aero/collections/pacific-aip"
+  },
+  {
+    "CR": "north central america",
+    "Costa Rica": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "HR": "europe",
+    "Croatia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.crocontrol.hr/UserDocsImages/AIS%20produkti/eAIP/start.html"
+  },
+  {
+    "CU": "north central america",
+    "Cuba": "north central america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aismet.avianet.cu/html/aim.html"
+  },
+  {
+    "CW": "north central america",
+    "Curacao": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "CY": "europe",
+    "Cyprus": "europe",
+    "status": "Web",
+    "access": "Login",
+    "url": "http://www.mcw.gov.cy/mcw/DCA/AIS/ais.nsf/index_en/index_en"
+  },
+  {
+    "CZ": "europe",
+    "Czech Republic": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aim.rlp.cz/ais_data/www_main_control/frm_cz_aip.htm"
+  },
+  {
+    "CD": "africa",
+    "D.R. of Congo": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "DK": "europe",
+    "Denmark (Faeore Islands-Greenland)": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aim.naviair.dk/"
+  },
+  {
+    "DJ": "africa",
+    "Djibouti": "africa",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://djibaviationcivile.com/aip?id=61a3bf992a5e4d2a901c8f40"
+  },
+  {
+    "DM": "north central america",
+    "Dominica": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "DO": "north central america",
+    "Dominican Republic": "north central america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aip.idac.gob.do/Aip/IndexAip"
+  },
+  {
+    "KP": "asia pacific",
+    "DPR of Korea": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "EC": "south america",
+    "Ecuador": "south america",
+    "status": "Web",
+    "access": "Free access",
+    "url": "http://www.ais.aviacioncivil.gob.ec/ifis3/"
+  },
+  {
+    "EG": "africa",
+    "Egypt": "africa",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://www.nansceg.net/ais.html"
+  },
+  {
+    "SV": "north central america",
+    "EL Salvador": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "GQ": "africa",
+    "Equatorial Guinea": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "ER": "africa",
+    "Eritrea": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "EE": "europe",
+    "Estonia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.eans.ee/et/eaip"
+  },
+  {
+    "SZ": "africa",
+    "Eswatini": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.eswacaa.co.sz/"
+  },
+  {
+    "ET": "africa",
+    "Ethiopia": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://www.ecaa.gov.et/home/aeronautical-information-services-ais-directorate/"
+  },
+  {
+    "FK": "south america",
+    "Falkland Islands": "south america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.falklands.gov.fk/civilaviation/aip/information"
+  },
+  {
+    "FJ": "asia pacific",
+    "Fiji": "asia pacific",
+    "status": "PDF",
+    "access": "Login",
+    "url": "http://airportsfiji.com/ais-fiji/wp-login.php?redirect_to=http%3A%2F%2Fairportsfiji.com%2Fais-fiji%2F"
+  },
+  {
+    "FI": "europe",
+    "Finland": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.ais.fi/fi/tuotteet-ja-palvelut/aip"
+  },
+  {
+    "FR": "europe",
+    "France": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/"
+  },
+  {
+    "GP": "north central america",
+    "France Guadalope": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/#"
+  },
+  {
+    "MQ": "north central america",
+    "France Martinque": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/#"
+  },
+  {
+    "GF": "south america",
+    "French Guiana": "south america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/#"
+  },
+  {
+    "PF": "asia pacific",
+    "French Polynesia": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/documents/htmlshow?f=dvd/eAIP_06_OCT_2022/PAC-P/home.html"
+  },
+  {
+    "GA": "africa",
+    "Gabon": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "GM": "africa",
+    "Gambia": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "GE": "europe",
+    "Georgia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://airnav.ge/eaip/history-en-GB.html"
+  },
+  {
+    "DE": "europe",
+    "Germany": "europe",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://secais.dfs.de/pilotservice/service/information/aip_online/aip_online.jsp"
+  },
+  {
+    "GH": "africa",
+    "Ghana": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://www.gcaa.com.gh/notam/index.php/contact-us/1-aeronautical-information-services"
+  },
+  {
+    "GR": "europe",
+    "Greece": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aisgr.hcaa.gr/main.php?rand=0.960685432937005"
+  },
+  {
+    "GD": "north central america",
+    "Grenada": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "GT": "north central america",
+    "Guatemala": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "GW": "africa",
+    "Guinea-Bissau": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "GN": "africa",
+    "Guinea": "africa",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.robertsfir.org/aip.html"
+  },
+  {
+    "GY": "south america",
+    "Guyana": "south america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://www.gcaa-gy.org/guyana-aip.html"
+  },
+  {
+    "HT": "north central america",
+    "Haiti": "north central america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://ofnac.gouv.ht/services/#tab-606ef7842d3d3180b26"
+  },
+  {
+    "HN": "north central america",
+    "Honduras": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "HK": "asia pacific",
+    "Hong Kong": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.ais.gov.hk/eaip_20221006/VH-history-en-US.html"
+  },
+  {
+    "HU": "europe",
+    "Hungary": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ais-en.hungarocontrol.hu/aip/"
+  },
+  {
+    "IS": "europe",
+    "Iceland": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://eaip.isavia.is/"
+  },
+  {
+    "IN": "asia pacific",
+    "India": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim-india.aai.aero/"
+  },
+  {
+    "ID": "asia pacific",
+    "Indonesia": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://pia.airnavindonesia.co.id/"
+  },
+  {
+    "IR": "middle east",
+    "Iran": "middle east",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://ais.airport.ir/?site=ais.airport&lang=fa-IR&tabid=0"
+  },
+  {
+    "IQ": "middle east",
+    "Iraq": "middle east",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://icaa.gov.iq/verify/index.php?url=/?page_id=1462"
+  },
+  {
+    "IE": "europe",
+    "Ireland": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://iaip.iaa.ie/iaip/index.htm"
+  },
+  {
+    "IL": "middle east",
+    "Israel": "middle east",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://e-aip.azurefd.net/"
+  },
+  {
+    "IT": "europe",
+    "Italy": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Login",
+    "url": "https://www.enav.it/en/login-required"
+  },
+  {
+    "CI": "africa",
+    "Ivory Coast": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "JM": "north central america",
+    "Jamaica": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://aim.jcaa.aero/client/login"
+  },
+  {
+    "JP": "asia pacific",
+    "Japan": "asia pacific",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://aisjapan.mlit.go.jp/Login.do"
+  },
+  {
+    "JO": "middle east",
+    "Jordan": "middle east",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "KZ": "europe",
+    "Kazakhstan": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.ans.kz/en/ais/eaip"
+  },
+  {
+    "KE": "africa",
+    "Kenya": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Login",
+    "url": "http://eaip.kcaa.or.ke/"
+  },
+  {
+    "KI": "asia pacific",
+    "Kiribati": "asia pacific",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://shop.aeropath.aero/collections/pacific-aip"
+  },
+  {
+    "XK": "europe",
+    "Kosovo": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://caa.rks-gov.net/category/aip/"
+  },
+  {
+    "KW": "middle east",
+    "Kuwait": "middle east",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://dgca.gov.kw/AIP"
+  },
+  {
+    "KG": "europe",
+    "Kyrgyzstan": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://kan.kg/ais/eaip/2022-04-21-AIRAC/html/history-en-GB.html"
+  },
+  {
+    "LA": "asia pacific",
+    "Lao People's Democratic Republic": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.mpwt.gov.la/"
+  },
+  {
+    "LV": "europe",
+    "Latvia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ais.lgs.lv/aiseaip"
+  },
+  {
+    "LB": "middle east",
+    "Lebanon": "middle east",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://www.dgca.gov.lb/index.php/en/tid-en/and-en"
+  },
+  {
+    "LS": "africa",
+    "Lesotho": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "LR": "africa",
+    "Liberia": "africa",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.robertsfir.org/aip.html"
+  },
+  {
+    "LY": "africa",
+    "Libya": "africa",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://caa.gov.ly/ais/"
+  },
+  {
+    "LT": "europe",
+    "Lithuania": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.ans.lt/en/information-publications/aip-aip-supplements"
+  },
+  {
+    "LU": "europe",
+    "Luxembourg": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Product/index.html"
+  },
+  {
+    "MO": "asia pacific",
+    "Macao": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.ais.gov.hk/#info"
+  },
+  {
+    "MG": "africa",
+    "Madagascar": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "MW": "africa",
+    "Malawi": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "MY": "asia pacific",
+    "Malaysia": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aip.caam.gov.my/aip/eAIP/history-en-MS.html"
+  },
+  {
+    "MV": "asia pacific",
+    "Maldives": "asia pacific",
+    "status": "Web",
+    "access": "Purchase",
+    "url": "https://www.macl.aero/corporate/services/operational/ans/aip"
+  },
+  {
+    "ML": "africa",
+    "Mali": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "MT": "europe",
+    "Malta": "europe",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://maltats.com/aim/"
+  },
+  {
+    "MR": "africa",
+    "Mauritania": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "MU": "africa",
+    "Mauritius": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "MX": "north central america",
+    "Mexico": "north central america",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.gob.mx/seneam/acciones-y-programas/aip-manual"
+  },
+  {
+    "FM": "asia pacific",
+    "Micronesia, Federated States of": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "MD": "europe",
+    "Moldova": "europe",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://aim.moldatsa.md/#welcome"
+  },
+  {
+    "MN": "asia pacific",
+    "Mongolia": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ais.mn/aipAip;jsessionid=SCqVHrwlQDhJSYlFsB0fyUV4n2Y_0nL62l_FNsVL.web"
+  },
+  {
+    "ME": "europe",
+    "Montenegro": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://smatsa.rs/wp-content/uploads/aip/trenutna_publikacija/2022-07-14/start_page.html"
+  },
+  {
+    "MS": "north central america",
+    "Montserrat": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "MA": "africa",
+    "Morocco": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://siamaroc.onda.ma/eAIP/index.htm"
+  },
+  {
+    "MZ": "africa",
+    "Mozambique": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.iacm.gov.mz/"
+  },
+  {
+    "MM": "asia pacific",
+    "Myanmar": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.ais.gov.mm/eAIP/history-en-GB.html"
+  },
+  {
+    "NA": "africa",
+    "Namibia": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "NR": "asia pacific",
+    "Nauru": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://shop.aeropath.aero/collections/nauru"
+  },
+  {
+    "NP": "asia pacific",
+    "Nepal": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://caanepal.gov.np/"
+  },
+  {
+    "NL": "europe",
+    "Netherlands": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.lvnl.nl/informatie-voor-luchtvarenden/publicaties-voor-luchtvarenden"
+  },
+  {
+    "NC": "asia pacific",
+    "New Caledonia": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/documents/htmlshow?f=dvd/eAIP_06_OCT_2022/PAC-N/home.html"
+  },
+  {
+    "NZ": "asia pacific",
+    "New Zealand": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://www.aip.net.nz/"
+  },
+  {
+    "NI": "north central america",
+    "Nicaragua": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "NE": "africa",
+    "Niger": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "NG": "africa",
+    "Nigeria": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "NU": "asia pacific",
+    "Niue": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://shop.aeropath.aero/collections/nauru"
+  },
+  {
+    "MK": "europe",
+    "North Macedonia": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://ais.m-nav.info/eAIP/current/en/index.htm"
+  },
+  {
+    "NO": "europe",
+    "Norway": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ais.avinor.no/no/AIP/View/120/history-no-NO.html"
+  },
+  {
+    "OM": "middle east",
+    "Oman": "middle east",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://www.caa.gov.om/aim-publications"
+  },
+  {
+    "PK": "middle east",
+    "Pakistan": "middle east",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://caapakistan.com.pk/AIS/AIS_AMDT.aspx"
+  },
+  {
+    "PA": "south america",
+    "Panama": "south america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://portal.aeronautica.gob.pa/Elogin/html/index-en-EN.html"
+  },
+  {
+    "PG": "asia pacific",
+    "Papua New Guinea": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.niuskypacific.com.pg/aeronautical-information-management/"
+  },
+  {
+    "PY": "south america",
+    "Paraguay": "south america",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://www.dinac.gov.py/v3/index.php/ais/aip-paraguay"
+  },
+  {
+    "PE": "south america",
+    "Peru": "south america",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://portal2.corpac.gob.pe/"
+  },
+  {
+    "PH": "asia pacific",
+    "Philippines": "asia pacific",
+    "status": "Web",
+    "access": "Login",
+    "url": "http://ats.caap.gov.ph/index2/ais.php"
+  },
+  {
+    "PL": "europe",
+    "Poland": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.ais.pansa.pl/en/publications/aip-poland/"
+  },
+  {
+    "PT": "europe",
+    "Portugal (Azores-Madeira)": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Login",
+    "url": "https://ais.nav.pt/ais/eaip"
+  },
+  {
+    "PR": "north central america",
+    "Puerto Rico": "north central america",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://www.faa.gov/air_traffic/publications/"
+  },
+  {
+    "QA": "middle east",
+    "Qatar": "middle east",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.caa.gov.qa/en-us/Pages/AIM.aspx"
+  },
+  {
+    "KR": "asia pacific",
+    "Republic of Korea": "asia pacific",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://ais.casa.go.kr/"
+  },
+  {
+    "RE": "africa",
+    "Reunion": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/documents/htmlshow?f=dvd/eAIP_06_OCT_2022/RUN/home.html"
+  },
+  {
+    "RO": "europe",
+    "Romania": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": ""
+  },
+  {
+    "RU": "europe",
+    "Russian Federation": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://www.caiga.ru/"
+  },
+  {
+    "RW": "africa",
+    "Rwanda": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.caa.gov.rw/service-details/aeronautical-information-services"
+  },
+  {
+    "BQ": "north central america",
+    "Saba": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "BQ": "north central america",
+    "Saint Eustatius": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "KN": "north central america",
+    "Saint Kitts and Nevis": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "LC": "north central america",
+    "Saint Lucia": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "VC": "north central america",
+    "Saint Vincent and Grenadines": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "WS": "asia pacific",
+    "Samoa": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://shop.aeropath.aero/collections/nauru"
+  },
+  {
+    "ST": "africa",
+    "Sao Tome and Principe": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.enasa.st/webenasa/#index"
+  },
+  {
+    "SA": "middle east",
+    "Saudi Arabia": "middle east",
+    "status": "EUROCONTROL eAIP",
+    "access": "Login",
+    "url": "https://www.sans.com.sa/English/Pages/WhatAIMs.aspx"
+  },
+  {
+    "SN": "africa",
+    "Senegal": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "RS": "europe",
+    "Serbia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://smatsa.rs/wp-content/uploads/aip/trenutna_publikacija/2022-07-14/start_page.html"
+  },
+  {
+    "SC": "africa",
+    "Seychelles": "africa",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.scaa.sc/index.php/service-providers/aviation-services/e-ais/page/79"
+  },
+  {
+    "SL": "africa",
+    "Sierra Leone": "africa",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.robertsfir.org/aip.html"
+  },
+  {
+    "SG": "asia pacific",
+    "Singapore": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://aim-sg.caas.gov.sg/eaip.html"
+  },
+  {
+    "SX": "north central america",
+    "Sint Maarten": "north central america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+  },
+  {
+    "SK": "europe",
+    "Slovakia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.lps.sk/web/index.php?fn=200&lng=en&sess=JLKoGsgLls3nLf77ZU1CmckmqxkDS93VDFCJDHFG"
+  },
+  {
+    "SI": "europe",
+    "Slovenia": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sloveniacontrol.si/en"
+  },
+  {
+    "SB": "asia pacific",
+    "Solomon Islands": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://www.mca.gov.sb/resources/aeronautical-information-aip.html"
+  },
+  {
+    "SO": "africa",
+    "Somalia": "africa",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.icao.int/ESAF/FISS/Pages/Aeronautical-Information-Publication.aspx"
+  },
+  {
+    "ZA": "africa",
+    "South Africa": "africa",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://www.caa.co.za/industry-information/aeronautical-information/#aip"
+  },
+  {
+    "SS": "africa",
+    "South Sudan": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "ES": "europe",
+    "Spain": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aip.enaire.es/AIP/"
+  },
+  {
+    "LK": "asia pacific",
+    "Sri Lanka": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://www.airport.lk/aasl/AIS/web.Home.htm"
+  },
+  {
+    "SH": "africa",
+    "St Helena": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "SD": "africa",
+    "Sudan": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  },
+  {
+    "SR": "south america",
+    "Suriname": "south america",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://www.cadsur.sr/13.html"
+  },
+  {
+    "SE": "europe",
+    "Sweden": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "https://aro.lfv.se/Editorial/View/IAIP?folderId=79"
+  },
+  {
+    "CH": "europe",
+    "Switzerland": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Purchase",
+    "url": "https://www.skybriefing.com/prices/evfr-manual"
+  },
+  {
+    "SY": "middle east",
+    "Syria": "middle east",
+    "status": "Web",
+    "access": "Free access",
+    "url": "http://www.scaa.sy/scaa/en/"
+  },
+  {
+    "TW": "asia pacific",
+    "Taiwan": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://ais.caa.gov.tw/aimportalapp/#/"
+  },
+  {
+    "TJ": "europe",
+    "Tajikistan": "europe",
+    "status": "PDF",
+    "access": "Free access",
+    "url": "http://www.caica.ru/aiptjk/"
+  },
+  {
+    "TZ": "africa",
+    "Tanzania": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.tcaa.go.tz/page.php?token=UlppNDc0b1cwRWUrRUJ6L3pzb25HQT09"
+  },
+  {
+    "TH": "asia pacific",
+    "Thailand": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aip.caat.or.th/"
+  },
+  {
+    "TL": "asia pacific",
+    "Timor Leste": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "N/A"
+  },
+  {
+    "TG": "africa",
+    "Togo": "africa",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+  },
+  {
+    "TO": "asia pacific",
+    "Tonga": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://shop.aeropath.aero/collections/nauru"
+  },
+  {
+    "TT": "north central america",
+    "Trinidad and Tobago": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "TN": "africa",
+    "Tunisia": "africa",
+    "status": "Web",
+    "access": "Free access",
+    "url": "http://www.oaca.nat.tn/index.php?id=695&L=2"
+  },
+  {
+    "TR": "europe",
+    "Turkiye": "europe",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://www.dhmi.gov.tr/Sayfalar/aipturkey.aspx"
+  },
+  {
+    "TM": "europe",
+    "Turkmenistan": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "http://www.caica.ru/aiptkm/?lang=en"
+  },
+  {
+    "TC": "north central america",
+    "Turks and Caicos Islands": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://tciairports.com/tci-aip/"
+  },
+  {
+    "TV": "asia pacific",
+    "Tuvalu": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://shop.aeropath.aero/collections/nauru"
+  },
+  {
+    "UG": "africa",
+    "Uganda": "africa",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://aim.caa.co.ug/"
+  },
+  {
+    "UA": "europe",
+    "Ukraine": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Login",
+    "url": "https://www.aisukraine.net/publications/eng/publ(eng).htm"
+  },
+  {
+    "AE": "middle east",
+    "United Arab Emirates": "middle east",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.gcaa.gov.ae/en/ais/Pages/default.aspx"
+  },
+  {
+    "GB": "europe",
+    "United Kingdom": "europe",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://nats-uk.ead-it.com/cms-nats/opencms/en/Publications/AIP/"
+  },
+  {
+    "US": "north central america",
+    "United States": "north central america",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://www.faa.gov/air_traffic/publications/"
+  },
+  {
+    "UY": "south america",
+    "Uruguay": "south america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://www.dinacia.gub.uy/ais/aip-uruguay"
+  },
+  {
+    "UZ": "europe",
+    "Uzbekistan": "europe",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "http://ais.uzairways.com/"
+  },
+  {
+    "VU": "asia pacific",
+    "Vanuatu": "asia pacific",
+    "status": "Web",
+    "access": "Free access",
+    "url": "https://shop.aeropath.aero/collections/nauru"
+  },
+  {
+    "VE": "south america",
+    "Venezuela": "south america",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.inac.gob.ve/eaip/history-en-GB.html"
+  },
+  {
+    "VN": "asia pacific",
+    "Vietnam": "asia pacific",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://vnaic.vn/"
+  },
+  {
+    "VG": "north central america",
+    "Virgin Islands": "north central america",
+    "status": "Web",
+    "access": "Login",
+    "url": "https://caa.gov.tt/eaip-acquisition-form/"
+  },
+  {
+    "WF": "asia pacific",
+    "Wallis and Futuna islands": "asia pacific",
+    "status": "EUROCONTROL eAIP",
+    "access": "Free access",
+    "url": "https://www.sia.aviation-civile.gouv.fr/documents/htmlshow?f=dvd/eAIP_06_OCT_2022/PAC-N/home.html"
+  },
+  {
+    "YE": "middle east",
+    "Yemen": "middle east",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://cama.gov.ye/en/"
+  },
+  {
+    "ZM": "africa",
+    "Zambia": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "https://www.zacl.co.zm/corporate/air-navigation-2/aeronautical-information-services"
+  },
+  {
+    "ZW": "africa",
+    "Zimbabwe": "africa",
+    "status": "Paper",
+    "access": "Purchase",
+    "url": "N/A"
+  }
+]

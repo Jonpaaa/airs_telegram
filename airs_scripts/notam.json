@@ -1,0 +1,1332 @@
+{
+    "pageSize": 50,
+    "pageNum": 1,
+    "totalCount": 22,
+    "totalPages": 1,
+    "items": [
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364332",
+                        "series": "F",
+                        "number": "F0055/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:17:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:17:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND IAC RNAV (RNP) Z RWY 01 (RNAV-01) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:17:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0055/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121017 C) PERM\nE) HAND AMEND IAC RNAV (RNP) Z RWY 01 (RNAV-01) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364353",
+                        "series": "F",
+                        "number": "F0056/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:19:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:19:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Z RWY 01\n(RNAV-01A)\nDATED  12 OCT 17 AS FLW: VOR RIV IS REPLACED BY SIGNIFICANT POINT\nDUGLU (334758.45S 0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:20:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0056/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121019 C) PERM\nE) HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Z RWY 01\n(RNAV-01A)\nDATED  12 OCT 17 AS FLW: VOR RIV IS REPLACED BY SIGNIFICANT POINT\nDUGLU (334758.45S 0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364398",
+                        "series": "F",
+                        "number": "F0058/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:22:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:22:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Y RWY 01\n(RNAV-02A)\nDATED  12 OCT 17 AS FLW: VOR RIV IS REPLACED BY SIGNIFICANT POINT\nDUGLU (334758.45S 0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:23:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0058/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121022 C) PERM\nE) HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Y RWY 01\n(RNAV-02A)\nDATED  12 OCT 17 AS FLW: VOR RIV IS REPLACED BY SIGNIFICANT POINT\nDUGLU (334758.45S 0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364430",
+                        "series": "F",
+                        "number": "F0059/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:25:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:25:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND IAC RNAV (RNP) Z RWY 19 (RNAV-03) DATED  03 JAN 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:26:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0059/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121025 C) PERM\nE) HAND AMEND IAC RNAV (RNP) Z RWY 19 (RNAV-03) DATED  03 JAN 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364438",
+                        "series": "F",
+                        "number": "F0060/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:26:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:26:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Z RWY 19\n(RNAV-03A)\nDATED  12 OCT 17 AS FLW: VOR RIV IS REPLACED BY SIGNIFICANT POINT\nDUGLU (334758.45S 0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:26:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0060/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121026 C) PERM\nE) HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Z RWY 19\n(RNAV-03A)\nDATED  12 OCT 17 AS FLW: VOR RIV IS REPLACED BY SIGNIFICANT POINT\nDUGLU (334758.45S 0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364449",
+                        "series": "F",
+                        "number": "F0061/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:27:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:27:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND IAC RNAV (RNP) Z RWY 34 (RNAV-04) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:27:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0061/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121027 C) PERM\nE) HAND AMEND IAC RNAV (RNP) Z RWY 34 (RNAV-04) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364457",
+                        "series": "F",
+                        "number": "F0062/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:28:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:28:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Z RWY 34\n(RNAV-04A) DATED  09 NOV 17 AS FLW: VOR RIV IS REPLACED BY\nSIGNIFICANT POINT DUGLU (334758.45S 0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:29:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0062/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121028 C) PERM\nE) HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (RNP) Z RWY 34\n(RNAV-04A) DATED  09 NOV 17 AS FLW: VOR RIV IS REPLACED BY\nSIGNIFICANT POINT DUGLU (334758.45S 0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364472",
+                        "series": "F",
+                        "number": "F0063/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:29:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:29:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND IAC RNAV (GNSS) RWY 01 (RNAV-05) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:30:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0063/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121029 C) PERM\nE) HAND AMEND IAC RNAV (GNSS) RWY 01 (RNAV-05) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64364486",
+                        "series": "F",
+                        "number": "F0064/22",
+                        "type": "N",
+                        "issued": "2022-05-12T10:31:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:31:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (GNSS) RWY 01\n(RNAV-05A) DATED  26 MAR 20 AS FLW: VOR RIV IS REPLACED BY\nSIGNIFICANT POINT DUGLU (334758.45S 0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-12T10:31:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0064/22 NOTAMN\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121031 C) PERM\nE) HAND AMEND AERONAUTICAL DATA TABULATION CHART RNAV (GNSS) RWY 01\n(RNAV-05A) DATED  26 MAR 20 AS FLW: VOR RIV IS REPLACED BY\nSIGNIFICANT POINT DUGLU (334758.45S 0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_64397132",
+                        "series": "F",
+                        "number": "F0066/22",
+                        "type": "R",
+                        "issued": "2022-05-16T14:40:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-05-12T10:20:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND IAC RNAV (RNP) Y RWY 01 (RNAV-02) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-05-16T14:40:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0066/22 NOTAMR F0057/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2205121020 C) PERM\nE) HAND AMEND IAC RNAV (RNP) Y RWY 01 (RNAV-02) DATED  23 MAY 19 AS\nFLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_65008448",
+                        "series": "F",
+                        "number": "F0121/22",
+                        "type": "R",
+                        "issued": "2022-07-21T19:12:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-07-21T16:08:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND FACT ILS Z RWY 19 (ILS-02): PILOTS ARE PROHIBITED FROM\nFLYING THE PUBLISHED HOLD OR RACETRACK. THE HOLD AND RACETRACK ARE\nWITHDRAWN. FROM RADAR VECTORS, INTERCEPT ILS LOC RWY 19. MAINTAIN\n3000FT ALT TO 8.5 DME KSI (8.9 DME CTV). INTERCEPT THE GLIDE PATH AND\nDESCEND TO DECISION ALT.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-07-21T19:12:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0121/22 NOTAMR F0120/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2207211608 C) PERM\nE) HAND AMEND FACT ILS Z RWY 19 (ILS-02): PILOTS ARE PROHIBITED FROM\nFLYING THE PUBLISHED HOLD OR RACETRACK. THE HOLD AND RACETRACK ARE\nWITHDRAWN. FROM RADAR VECTORS, INTERCEPT ILS LOC RWY 19. MAINTAIN\n3000FT ALT TO 8.5 DME KSI (8.9 DME CTV). INTERCEPT THE GLIDE PATH AND\nDESCEND TO DECISION ALT."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_65955335",
+                        "series": "F",
+                        "number": "F0209/22",
+                        "type": "R",
+                        "issued": "2022-11-01T15:06:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-11-01T15:06:00.000Z",
+                        "effectiveEnd": "2023-01-27T12:00:00.000Z",
+                        "text": "AIRAC AIP SUP S042/21 DATED 07 OCT 2021 TEMPO SUSPENDED.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-11-01T15:07:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0209/22 NOTAMR F0156/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2211011506 C) 2301271200 EST\nE) AIRAC AIP SUP S042/21 DATED 07 OCT 2021 TEMPO SUSPENDED."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_65955336",
+                        "series": "F",
+                        "number": "F0210/22",
+                        "type": "R",
+                        "issued": "2022-11-01T15:07:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2022-11-01T15:07:00.000Z",
+                        "effectiveEnd": "2023-01-27T12:00:00.000Z",
+                        "text": "AIRAC AIP SUP S041/21 DATED 07 OCT 2021 TEMPO SUSPENDED.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2022-11-01T15:07:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0210/22 NOTAMR F0155/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2211011507 C) 2301271200 EST\nE) AIRAC AIP SUP S041/21 DATED 07 OCT 2021 TEMPO SUSPENDED."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_66753028",
+                        "series": "F",
+                        "number": "F0002/23",
+                        "type": "R",
+                        "issued": "2023-01-03T11:45:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-03T11:44:00.000Z",
+                        "effectiveEnd": "PERM",
+                        "text": "HAND AMEND AIRAC AIP SUP S140-22 PAGES 8-12 AS FLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-03T11:45:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0002/23 NOTAMR F0149/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2301031144 C) PERM\nE) HAND AMEND AIRAC AIP SUP S140-22 PAGES 8-12 AS FLW:\nVOR RIV IS REPLACED BY SIGNIFICANT POINT DUGLU (334758.45S\n0182152.10E)."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_66945426",
+                        "series": "A",
+                        "number": "A0129/23",
+                        "type": "N",
+                        "issued": "2023-01-11T19:18:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QWULW",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "AW",
+                        "minimumFL": "000",
+                        "maximumFL": "005",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-13T06:00:00.000Z",
+                        "effectiveEnd": "2023-02-13T16:00:00.000Z",
+                        "text": "AREA BOUNDED BY (335710S 0183223E, 335709S 0183226E, 335628S\n0183233E, 335623S 0183229E): REMOTELY PILOTED AIRCRAFT\nSYSTEMS (RPAS) OPS (400FT AGL) TAKING PLACE BEYOND THE VISUAL LINE\nOF SIGHT (BVLOS).",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-11T19:18:00.000Z",
+                        "icaoLocation": "FACT",
+                        "schedule": "DLY 0600-1600",
+                        "lowerLimit": "GND",
+                        "upperLimit": "460FT AGL",
+                        "coordinates": "3357S01832E",
+                        "radius": "001"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "A0129/23 NOTAMN\nQ) FACA/QWULW/IV/BO/AW/000/005/3357S01832E001\nA) FACT B) 2301130600 C) 2302131600\nD) DLY 0600-1600\nE) AREA BOUNDED BY (335710S 0183223E, 335709S 0183226E, 335628S\n0183233E, 335623S 0183229E): REMOTELY PILOTED AIRCRAFT\nSYSTEMS (RPAS) OPS (400FT AGL) TAKING PLACE BEYOND THE VISUAL LINE\nOF SIGHT (BVLOS).\nF) GND G) 460FT AGL"
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.53,
+                            -33.95
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_66989843",
+                        "series": "A",
+                        "number": "A0199/23",
+                        "type": "R",
+                        "issued": "2023-01-15T16:49:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QFGAH",
+                        "traffic": "IV",
+                        "purpose": "M",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-15T16:48:00.000Z",
+                        "effectiveEnd": "2023-04-08T17:00:00.000Z",
+                        "text": "CLR DELIVERY 122.1 MHZ OPS HR CHG TO:\nSAT-SUN 0400-1700.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-15T16:50:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "A0199/23 NOTAMR A3502/22\nQ) FACA/QFGAH/IV/M/A/000/999/3358S01836E005\nA) FACT B) 2301151648 C) 2304081700 EST\nE) CLR DELIVERY 122.1 MHZ OPS HR CHG TO:\nSAT-SUN 0400-1700."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_67102445",
+                        "series": "A",
+                        "number": "A0300/23",
+                        "type": "R",
+                        "issued": "2023-01-23T08:31:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QLCXX",
+                        "traffic": "IV",
+                        "purpose": "NBO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-23T08:31:00.000Z",
+                        "effectiveEnd": "2023-04-21T10:00:00.000Z",
+                        "text": "SOME RCLL 01/19 APPEAR TO BE OFF WHITE.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-23T08:31:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "A0300/23 NOTAMR A4253/22\nQ) FACA/QLCXX/IV/NBO/A/000/999/3358S01836E005\nA) FACT B) 2301230831 C) 2304211000 EST\nE) SOME RCLL 01/19 APPEAR TO BE OFF WHITE."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_67158034",
+                        "series": "A",
+                        "number": "A0342/23",
+                        "type": "N",
+                        "issued": "2023-01-26T07:23:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QCTAS",
+                        "traffic": "I",
+                        "purpose": "B",
+                        "scope": "AE",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-02-06T10:00:00.000Z",
+                        "effectiveEnd": "2023-02-08T19:00:00.000Z",
+                        "text": "CAPE TOWN S-BAND 1 PSR AND MSSR (335730.79S 0183626.98E) OFFLINE.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-26T07:23:00.000Z",
+                        "icaoLocation": "FACT",
+                        "schedule": "DLY 1000-1900",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "A0342/23 NOTAMN\nQ) FACA/QCTAS/I/B/AE/000/999/3358S01836E005\nA) FACT B) 2302061000 C) 2302081900\nD) DLY 1000-1900\nE) CAPE TOWN S-BAND 1 PSR AND MSSR (335730.79S 0183626.98E) OFFLINE."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_67186482",
+                        "series": "F",
+                        "number": "F0016/23",
+                        "type": "R",
+                        "issued": "2023-01-27T16:49:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-27T16:49:00.000Z",
+                        "effectiveEnd": "2023-04-26T10:00:00.000Z",
+                        "text": "AIRAC AIP SUP S041/21 DATED 07 OCT 2021 TEMPO SUSPENDED.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-27T16:49:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0016/23 NOTAMR F0210/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2301271649 C) 2304261000 EST\nE) AIRAC AIP SUP S041/21 DATED 07 OCT 2021 TEMPO SUSPENDED."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_67186969",
+                        "series": "F",
+                        "number": "F0017/23",
+                        "type": "R",
+                        "issued": "2023-01-27T17:18:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QOAXX",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-27T17:18:00.000Z",
+                        "effectiveEnd": "2023-04-26T10:00:00.000Z",
+                        "text": "AIRAC AIP SUP S042/21 DATED 07 OCT 2021 TEMPO SUSPENDED.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-27T17:18:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "F0017/23 NOTAMR F0209/22\nQ) FACA/QOAXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2301271718 C) 2304261000 EST\nE) AIRAC AIP SUP S042/21 DATED 07 OCT 2021 TEMPO SUSPENDED."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_67258171",
+                        "series": "A",
+                        "number": "A0390/23",
+                        "type": "R",
+                        "issued": "2023-01-31T19:32:00.000Z",
+                        "affectedFIR": "FACA",
+                        "traffic": "IV",
+                        "purpose": "BO",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-31T19:32:00.000Z",
+                        "effectiveEnd": "2023-02-01T06:00:00.000Z",
+                        "text": "TWY A2 STOPBARS NOT INTERLOCKED. CTC TWR TO FLW PROC.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-31T19:33:00.000Z",
+                        "icaoLocation": "FACT",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "A0390/23 NOTAMR A4406/22\nQ) FACA/QMOXX/IV/BO/A/000/999/3358S01836E005\nA) FACT B) 2301311932 C) 2302010600 EST\nE) TWY A2 STOPBARS NOT INTERLOCKED. CTC TWR TO FLW PROC."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+,
+        {
+            "type": "Feature",
+            "properties": {
+                "coreNOTAMData": {
+                    "notamEvent": {
+                        "scenario": "6000"
+                    }
+,
+                    "notam": {
+                        "id": "NOTAM_1_67260016",
+                        "series": "A",
+                        "number": "A0391/23",
+                        "type": "N",
+                        "issued": "2023-01-31T21:00:00.000Z",
+                        "affectedFIR": "FACA",
+                        "selectionCode": "QMXLT",
+                        "traffic": "IV",
+                        "purpose": "M",
+                        "scope": "A",
+                        "minimumFL": "000",
+                        "maximumFL": "999",
+                        "location": "FACT",
+                        "effectiveStart": "2023-01-31T21:00:00.000Z",
+                        "effectiveEnd": "2023-02-05T03:00:00.000Z",
+                        "text": "TWY A2 LEAD ON/OFF LGT U/S DUE MAINT. 20MIN PN TO VACATE.",
+                        "classification": "INTL",
+                        "accountId": "FAJSYNYX",
+                        "lastUpdated": "2023-01-31T21:00:00.000Z",
+                        "icaoLocation": "FACT",
+                        "schedule": "DLY 2100-0300",
+                        "coordinates": "3358S01836E",
+                        "radius": "005"
+                    }
+,
+                    "notamTranslation": [
+                        {
+                            "type": "ICAO",
+                            "formattedText": "A0391/23 NOTAMN\nQ) FACA/QMXLT/IV/M/A/000/999/3358S01836E005\nA) FACT B) 2301312100 C) 2302050300\nD) DLY 2100-0300\nE) TWY A2 LEAD ON/OFF LGT U/S DUE MAINT. 20MIN PN TO VACATE."
+                        }
+
+                    ]
+                }
+
+            }
+,
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            18.6,
+                            -33.97
+                        ]
+                    }
+
+                ]
+            }
+
+        }
+
+    ]
+}
